@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1695783412 source:e:\makefile\testfile\admin.cpp
+	"admin.h"
+	<iostream>
+	<fstream>
+	"Questions.h"
+
+1695705163 e:\makefile\testfile\admin.h
+	<string>
+	"Questions.h"
+
+1695783403 source:e:\makefile\testfile\login.cpp
+	"login.h"
+	"SignUP.h"
+	"SingIN.h"
+	"Questions.h"
+	<string>
+	<fstream>
+
+1695365640 e:\makefile\testfile\login.h
+	<iostream>
+	<string>
+	<fstream>
+	"Questions.h"
+
+1695773872 source:e:\makefile\testfile\signup.cpp
+	"SignUP.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1694056383 source:e:\makefile\testfile\singin.cpp
+	"SingIN.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1696074219 source:e:\makefile\testfile\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Questions.h"
+	"SignUP.h"
+	"SingIN.h"
+	"login.h"
+	<fstream>
+	<string>
+	"Admin.h"
+
+1695365640 e:\makefile\testfile\questions.h
+	<string>
+	<iostream>
+
+1696074219 source:e:\makefile\testfile\questions.cpp
+	"Questions.h"
+	"login.h"
+	<iostream>
+	<string>
+	<fstream>
+	"Admin.h"
+
+1694056336 e:\makefile\testfile\signup.h
+	<string>
+	<fstream>
+	<iostream>
+
+1694056336 e:\makefile\testfile\singin.h
+	<string>
+	<fstream>
+	<iostream>
+
